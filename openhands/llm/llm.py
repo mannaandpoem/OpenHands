@@ -63,6 +63,9 @@ CACHE_PROMPT_SUPPORTED_MODELS = [
 
 # function calling supporting models
 FUNCTION_CALLING_SUPPORTED_MODELS = [
+    "openrouter/anthropic/claude-3.5-sonnet",
+    "claude-3.5-sonnet",
+    "anthropic/claude-3.5-sonnet",
     'claude-3-5-sonnet',
     'claude-3-5-sonnet-20240620',
     'claude-3-5-sonnet-20241022',
